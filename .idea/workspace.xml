@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c237898d-8715-4945-a8d8-db3fe58a91f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/第二阶段/面谈报告.docx" beforeDir="false" afterPath="$PROJECT_DIR$/第二阶段/面谈报告.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二阶段/用例文档.docx" beforeDir="false" afterPath="$PROJECT_DIR$/第二阶段/用例文档.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,25 +15,25 @@
     <session id="1136428326">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="51" />
+          <entry key="txt" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="51" />
+          <entry key="PLAIN_TEXT" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -71,6 +72,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,12 +81,21 @@
               <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
               <item name="大作业" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
+              <item name="大作业" type="462c0819:PsiDirectoryNode" />
+              <item name="第二阶段" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
+              <item name="大作业" type="462c0819:PsiDirectoryNode" />
+              <item name="第二阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,6 +142,8 @@
       <workItem from="1538903663328" duration="31000" />
       <workItem from="1540035036565" duration="32000" />
       <workItem from="1540185671274" duration="99000" />
+      <workItem from="1540186448945" duration="57000" />
+      <workItem from="1540209838432" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="第一次会议记录">
       <created>1538218261747</created>
@@ -173,16 +187,53 @@
       <option name="project" value="LOCAL" />
       <updated>1538644108179</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改面谈报告">
+      <created>1540186481117</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540186481117</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4755000" />
+    <option name="totallyTimeSpent" value="4853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29856387" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30763417" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5064248" side_tool="true" weight="0.32891247" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.49357522" visible="true" weight="0.32802126" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.303099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -198,8 +249,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50566894" side_tool="true" visible="true" weight="0.32934928" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49433106" visible="true" weight="0.32934928" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5064248" side_tool="true" visible="true" weight="0.32891247" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49357522" visible="true" weight="0.32891247" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -209,7 +260,7 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -224,7 +275,8 @@
     <MESSAGE value="提交过程分析文档" />
     <MESSAGE value="更新前景和范围文档" />
     <MESSAGE value="整理前景和范围文档和过程分析文档" />
-    <option name="LAST_COMMIT_MESSAGE" value="整理前景和范围文档和过程分析文档" />
+    <MESSAGE value="修改面谈报告" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改面谈报告" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/第一阶段/temp/前景和范围文档/a" />
