@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c237898d-8715-4945-a8d8-db3fe58a91f3" name="Default Changelist" comment="" />
+    <list default="true" id="c237898d-8715-4945-a8d8-db3fe58a91f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/第二阶段/面谈报告.docx" beforeDir="false" afterPath="$PROJECT_DIR$/第二阶段/面谈报告.docx" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,15 +14,15 @@
     <session id="1136428326">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -69,8 +71,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,40 +78,12 @@
               <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
               <item name="大作业" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大作业" type="462c0819:PsiDirectoryNode" />
-              <item name="会议记录" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大作业" type="462c0819:PsiDirectoryNode" />
-              <item name="第一阶段" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大作业" type="462c0819:PsiDirectoryNode" />
-              <item name="第一阶段" type="462c0819:PsiDirectoryNode" />
-              <item name="temp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大作业" type="462c0819:PsiDirectoryNode" />
-              <item name="第一阶段" type="462c0819:PsiDirectoryNode" />
-              <item name="temp" type="462c0819:PsiDirectoryNode" />
-              <item name="前景和范围文档" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大作业" type="462c0819:PsiDirectoryNode" />
-              <item name="第一阶段" type="462c0819:PsiDirectoryNode" />
-              <item name="temp" type="462c0819:PsiDirectoryNode" />
-              <item name="目标分析过程文档" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,6 +129,7 @@
       <workItem from="1538652848221" duration="592000" />
       <workItem from="1538903663328" duration="31000" />
       <workItem from="1540035036565" duration="32000" />
+      <workItem from="1540185671274" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="第一次会议记录">
       <created>1538218261747</created>
@@ -204,12 +177,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4656000" />
+    <option name="totallyTimeSpent" value="4755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29402873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29856387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -225,8 +198,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5049131" side_tool="true" visible="true" weight="0.32934928" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49508694" visible="true" weight="0.32934928" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50566894" side_tool="true" visible="true" weight="0.32934928" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49433106" visible="true" weight="0.32934928" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
