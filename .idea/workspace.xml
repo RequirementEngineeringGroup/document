@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c237898d-8715-4945-a8d8-db3fe58a91f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二阶段/用例文档.docx" beforeDir="false" afterPath="$PROJECT_DIR$/第二阶段/用例文档.docx" afterDir="false" />
-    </list>
+    <list default="true" id="c237898d-8715-4945-a8d8-db3fe58a91f3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,25 +12,26 @@
     <session id="1136428326">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="57" />
+          <entry key="txt" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="57" />
+          <entry key="PLAIN_TEXT" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -72,25 +70,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
               <item name="大作业" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大作业" type="462c0819:PsiDirectoryNode" />
-              <item name="第二阶段" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大作业" type="462c0819:PsiDirectoryNode" />
-              <item name="第二阶段" type="462c0819:PsiDirectoryNode" />
-              <item name="temp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,6 +131,7 @@
       <workItem from="1540185671274" duration="99000" />
       <workItem from="1540186448945" duration="57000" />
       <workItem from="1540209838432" duration="41000" />
+      <workItem from="1540429386091" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="第一次会议记录">
       <created>1538218261747</created>
@@ -194,23 +182,29 @@
       <option name="project" value="LOCAL" />
       <updated>1540186481117</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="完成第二阶段">
+      <created>1540429438614</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540429438614</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4853000" />
+    <option name="totallyTimeSpent" value="4958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30763417" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3121693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -221,7 +215,8 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5064248" side_tool="true" weight="0.32891247" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.49357522" visible="true" weight="0.32802126" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49357522" visible="true" weight="0.32802126" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -276,7 +271,8 @@
     <MESSAGE value="更新前景和范围文档" />
     <MESSAGE value="整理前景和范围文档和过程分析文档" />
     <MESSAGE value="修改面谈报告" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改面谈报告" />
+    <MESSAGE value="完成第二阶段" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成第二阶段" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/第一阶段/temp/前景和范围文档/a" />
