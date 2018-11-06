@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c237898d-8715-4945-a8d8-db3fe58a91f3" name="Default Changelist" comment="" />
+    <list default="true" id="c237898d-8715-4945-a8d8-db3fe58a91f3" name="Default Changelist" comment="修改错字：待负约——&gt;待赴约">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,42 +14,51 @@
     <session id="1136428326">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="63" />
+          <entry key="txt" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="PLAIN_TEXT" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="a" value="2" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第三阶段/temp/a.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,11 +69,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1256" />
-    <option name="y" value="14" />
-    <option name="width" value="1498" />
-    <option name="height" value="1584" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1358" />
+    <option name="width" value="1390" />
+    <option name="height" value="1756" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -71,7 +81,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,16 +88,33 @@
               <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
               <item name="大作业" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
+              <item name="大作业" type="462c0819:PsiDirectoryNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
+              <item name="大作业" type="462c0819:PsiDirectoryNode" />
+              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
+              <item name="大作业" type="462c0819:PsiDirectoryNode" />
+              <item name="第二阶段" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538367125683" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541493252474" />
     <property name="last_opened_file_path" value="$USER_HOME$/Projects/IdeaProjects/BeQuank-FrontEnd" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -132,6 +158,9 @@
       <workItem from="1540186448945" duration="57000" />
       <workItem from="1540209838432" duration="41000" />
       <workItem from="1540429386091" duration="105000" />
+      <workItem from="1541258969710" duration="100000" />
+      <workItem from="1541320332135" duration="29000" />
+      <workItem from="1541490993331" duration="1579000" />
     </task>
     <task id="LOCAL-00001" summary="第一次会议记录">
       <created>1538218261747</created>
@@ -189,16 +218,31 @@
       <option name="project" value="LOCAL" />
       <updated>1540429438614</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="第三阶段">
+      <created>1541259032742</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1541259032742</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改错字：待负约——&gt;待赴约">
+      <created>1541491351675</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1541491351675</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4958000" />
+    <option name="totallyTimeSpent" value="6666000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <frame x="679" y="0" width="695" height="878" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3121693" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.689168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -215,7 +259,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5064248" side_tool="true" weight="0.32891247" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49357522" visible="true" weight="0.32802126" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49357522" visible="true" weight="0.33109918" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -272,10 +316,15 @@
     <MESSAGE value="整理前景和范围文档和过程分析文档" />
     <MESSAGE value="修改面谈报告" />
     <MESSAGE value="完成第二阶段" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成第二阶段" />
+    <MESSAGE value="第三阶段" />
+    <MESSAGE value="修改错字：待负约——&gt;待赴约" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改错字：待负约——&gt;待赴约" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/第一阶段/temp/前景和范围文档/a" />
     <entry file="file://$PROJECT_DIR$/第一阶段/temp/目标分析过程文档/a" />
+    <entry file="file://$PROJECT_DIR$/第三阶段/temp/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>
