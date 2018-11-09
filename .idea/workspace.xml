@@ -3,13 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c237898d-8715-4945-a8d8-db3fe58a91f3" name="Default Changelist" comment="修改错字：待负约——&gt;待赴约">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一阶段/过程分析文档与前景和范围文档（第31组）.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/查看剩余时间.png" beforeDir="false" afterPath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/查看剩余时间.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/查看待赴约活动的地图.png" beforeDir="false" afterPath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/查看待赴约活动的地图.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/活动管理.png" beforeDir="false" afterPath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/活动管理.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/邀请成员.png" beforeDir="false" afterPath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/邀请成员.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/顺序图——雷诚.asta" beforeDir="false" afterPath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/顺序图——雷诚.asta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二阶段/展开需求获取并完成用例文档（第31组）.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三阶段/分析模型.docx" beforeDir="false" afterPath="$PROJECT_DIR$/第三阶段/分析模型.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三阶段/需求规格说明文档.docx" beforeDir="false" afterPath="$PROJECT_DIR$/第三阶段/需求规格说明文档.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,24 +34,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="98" />
+          <entry key="txt" value="108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="98" />
+          <entry key="PLAIN_TEXT" value="108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="a" value="2" />
-          <entry key="png" value="12" />
+          <entry key="png" value="13" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="12" />
+          <entry key="Image" value="13" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -62,53 +59,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三阶段/temp/顺序图——张李承/参与未结束活动群聊详细流程图.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/第三阶段/temp/概念类图/带属性的概念类图.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三阶段/temp/状态图——张李承/查看讨论中活动共同空余时间.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三阶段/temp/顺序图——张李承/查看讨论中活动共同空余时间详细流程图.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三阶段/temp/概念类图/概念类图.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三阶段/temp/顺序图——张李承/增删改查日程详细流程图.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三阶段/temp/状态图——张李承/增删改查日程.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三阶段/temp/状态图——张李承/参与未结束活动群聊.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三阶段/temp/顺序图——张李承/选择讨论中活动聚会地点详细流程图.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三阶段/temp/状态图——张李承/选择讨论中活动聚会地点.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -123,8 +75,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1358" />
     <option name="width" value="1390" />
     <option name="height" value="1756" />
   </component>
@@ -158,14 +110,7 @@
               <item name="大作业" type="462c0819:PsiDirectoryNode" />
               <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
               <item name="temp" type="462c0819:PsiDirectoryNode" />
-              <item name="状态图——张李承" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="大作业" type="b2602c69:ProjectViewProjectNode" />
-              <item name="大作业" type="462c0819:PsiDirectoryNode" />
-              <item name="第三阶段" type="462c0819:PsiDirectoryNode" />
-              <item name="temp" type="462c0819:PsiDirectoryNode" />
-              <item name="顺序图——张李承" type="462c0819:PsiDirectoryNode" />
+              <item name="概念类图" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,7 +122,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541770826883" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541780595037" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../大三1给学弟学妹/编译原理/lab/151250128 孙泽嵩 编译原理实验2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -225,7 +170,7 @@
       <workItem from="1541320332135" duration="29000" />
       <workItem from="1541490993331" duration="1741000" />
       <workItem from="1541572592870" duration="103000" />
-      <workItem from="1541763095710" duration="6651000" />
+      <workItem from="1541763095710" duration="8330000" />
     </task>
     <task id="LOCAL-00001" summary="第一次会议记录">
       <created>1538218261747</created>
@@ -304,17 +249,24 @@
       <option name="project" value="LOCAL" />
       <updated>1541493330364</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="提交第三阶段部分作业">
+      <created>1541770909512</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1541770909512</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13582000" />
+    <option name="totallyTimeSpent" value="15261000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="0" width="695" height="878" extended-state="0" />
+    <frame x="679" y="0" width="695" height="878" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5824176" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.56828886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -391,7 +343,8 @@
     <MESSAGE value="第三阶段" />
     <MESSAGE value="修改错字：待负约——&gt;待赴约" />
     <MESSAGE value="提交部分第三阶段" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交部分第三阶段" />
+    <MESSAGE value="提交第三阶段部分作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交第三阶段部分作业" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/第一阶段/temp/前景和范围文档/a" />
