@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c237898d-8715-4945-a8d8-db3fe58a91f3" name="Default Changelist" comment="修改错字：待负约——&gt;待赴约">
+    <list default="true" id="c237898d-8715-4945-a8d8-db3fe58a91f3" name="Default Changelist" comment="提交说明，修改软件需求列表样式，修改分析模型和需求规格说明文档">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/邀请成员.png" beforeDir="false" afterPath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/邀请成员.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/顺序图——雷诚.asta" beforeDir="false" afterPath="$PROJECT_DIR$/第三阶段/temp/顺序图——雷诚/顺序图——雷诚.asta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三阶段/分析模型.docx" beforeDir="false" afterPath="$PROJECT_DIR$/第三阶段/分析模型.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三阶段/需求规格说明文档.docx" beforeDir="false" afterPath="$PROJECT_DIR$/第三阶段/需求规格说明文档.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +14,7 @@
     <session id="1136428326">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
@@ -34,12 +30,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="108" />
+          <entry key="txt" value="147" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="108" />
+          <entry key="PLAIN_TEXT" value="147" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -76,8 +72,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1358" />
-    <option name="width" value="1390" />
+    <option name="x" value="-10" />
+    <option name="width" value="1850" />
     <option name="height" value="1756" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -122,7 +118,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541780595037" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541780784247" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../大三1给学弟学妹/编译原理/lab/151250128 孙泽嵩 编译原理实验2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -170,7 +166,7 @@
       <workItem from="1541320332135" duration="29000" />
       <workItem from="1541490993331" duration="1741000" />
       <workItem from="1541572592870" duration="103000" />
-      <workItem from="1541763095710" duration="8330000" />
+      <workItem from="1541763095710" duration="8525000" />
     </task>
     <task id="LOCAL-00001" summary="第一次会议记录">
       <created>1538218261747</created>
@@ -256,17 +252,23 @@
       <option name="project" value="LOCAL" />
       <updated>1541770909512</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="提交说明，修改软件需求列表样式，修改分析模型和需求规格说明文档">
+      <created>1541780675532</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1541780675532</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15261000" />
+    <option name="totallyTimeSpent" value="15456000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="679" y="0" width="695" height="878" extended-state="0" />
-    <editor active="true" />
+    <frame x="-5" y="0" width="925" height="878" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.56828886" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41753173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,7 +285,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5064248" side_tool="true" weight="0.32891247" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.49357522" visible="true" weight="0.33109918" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49357522" visible="true" weight="0.33109918" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -344,7 +346,8 @@
     <MESSAGE value="修改错字：待负约——&gt;待赴约" />
     <MESSAGE value="提交部分第三阶段" />
     <MESSAGE value="提交第三阶段部分作业" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交第三阶段部分作业" />
+    <MESSAGE value="提交说明，修改软件需求列表样式，修改分析模型和需求规格说明文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交说明，修改软件需求列表样式，修改分析模型和需求规格说明文档" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/第一阶段/temp/前景和范围文档/a" />
